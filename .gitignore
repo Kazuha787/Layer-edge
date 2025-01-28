@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+accounts.txt
+proxy.txt
+tes.js
+wallets.json
+backup.json
