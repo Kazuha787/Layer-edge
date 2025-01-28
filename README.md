@@ -19,8 +19,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/DropXpert/LE-DropXpert.git
-    cd LE-DropXpert
+    
     ```
 
 2. Install the required dependencies:
